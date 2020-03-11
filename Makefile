@@ -1,2 +1,3 @@
+CC=g++
 all:
-	g++ main.cpp
+	$(CC) -Wfatal-errors main.cpp
