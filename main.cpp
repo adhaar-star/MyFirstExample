@@ -6,6 +6,8 @@ using std::endl;
 
 int main()
 {
+    int nrandomvar;
+    
     cout<<"Hi, please enter two numbers: ";
 
     int x,y;
